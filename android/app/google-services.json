@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707329620333",
+    "project_id": "umbrellacare-d6eb0",
+    "storage_bucket": "umbrellacare-d6eb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707329620333:android:5bbb68128ae5ca1c8d4264",
+        "android_client_info": {
+          "package_name": "com.example.umbrella_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707329620333-kjjg12srm4vkgr6f1jtdf0478bl1t44m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqHxT13Fs5dlMpaF03XlSd7CF94pWMKQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707329620333-kjjg12srm4vkgr6f1jtdf0478bl1t44m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
